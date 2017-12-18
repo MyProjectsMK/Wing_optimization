@@ -1,0 +1,11 @@
+Rozpietosc plata: 13.61
+Cieciwa: 1.41
+Powierzchnia nosna: 19.19
+Wydluzenie geometryczne: 9.65
+Masa samolotu: 2579.97
+Cz przelotowy: 0.14
+Cz dla Vmin: 2.39
+Wspolczynnik Oswalda: 0.54
+Funkcja kary: 78.68
+Opor calkowity: 3884.84
+Funkcja celu: 3963.53
