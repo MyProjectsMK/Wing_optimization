@@ -3,6 +3,7 @@ The repository contains a tool dedicated to optimize an aircraft wing using grad
 <br><br>
 
 ## Application
+The program is dedicated to 
 
 ## How does it work?
 The program contains of five files:
