@@ -10,3 +10,4 @@ The program consists of five files:
 
 ![Figure 1](https://github.com/MyProjectsMK/Wing_optimization/blob/master/README_figure1.jpg)
 
+Its central point is the *wing_optimization.py* file - it incorporates the algorithmes responsible for the optimization. A user enters all parameters of a wing into this file and a number of iterations of the optimization procedure into the *number_of_iterations.txt* file.
