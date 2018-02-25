@@ -10,4 +10,4 @@ The program consists of five files:
 
 ![Figure 1](https://github.com/MyProjectsMK/Wing_optimization/blob/master/README_figure1.jpg)
 
-Its central point is the *wing_optimization.py* file - it incorporates the algorithmes responsible for the optimization. A user enters all parameters of a wing into this file and a number of iterations of the optimization procedure into the *number_of_iterations.txt* file.
+Its central point is the *wing_optimization.py* file - it incorporates the algorithmes responsible for the optimization. A user enters all parameters of a wing into this file and a number of iterations of the optimization procedure into the *number_of_iterations.txt* file. Two output files - *results.txt* and *results_of_the_last_iteration.txt* - provide a user with results of the optimization. The first one contains values of the decision variables in each iteration, while the second one contains the final parameters of the wing. 
