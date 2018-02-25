@@ -3,10 +3,10 @@ The repository contains a tool dedicated to optimize an aircraft wing using grad
 <br><br>
 
 ## Application
-The program is dedicated to 
+The program is dedicated to optimize an aircraft wing of any shape using gradient method. The goal of the optimization is to minimize drag coefficient using wingspan and standard mean chord.
 
 ## How does it work?
-The program contains of five files:
+The program consists of five files:
 
 ![Figure 1](https://github.com/MyProjectsMK/Wing_optimization/blob/master/README_figure1.jpg)
 
